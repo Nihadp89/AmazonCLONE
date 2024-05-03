@@ -1,0 +1,43 @@
+name: flutter_application_2
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  fan_carousel_image_slider: ^0.1.2
+  flutter:
+    sdk: flutter
+  flutter_gradient_app_bar: ^0.3.1
+  flutter_gradient_colors: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image1.png
+    - assets/image2.jpeg
+    - assets/image3.jpeg
+    - assets/image4.jpeg
+    - assets/image5.webp
+    - assets/image6.jpg
+    - assets/image7.webp
+    - assets/image8.webp
+    - assets/image9.jpg
+    - assets/image10.png
+    - assets/image11.webp
+    - assets/image13.jpg
+
+    
+
+
+   
+  
+    
+      
